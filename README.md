@@ -19,7 +19,7 @@ My name is Janelle Tenorio and I am majoring in B.S. Information Technology at K
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: www.linkedin.com/in/tenoriojan
+[linkedin]: https://linkedin.com/in/tenoriojan
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
