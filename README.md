@@ -6,6 +6,7 @@ My name is Janelle Tenorio and I am majoring in B.S. Information Technology at K
 - <b>JS, CSS, HTML</b>
   - [Password Generator](https://github.com/Janellx/PasswordGenerator)
 - <b>Python</b>
+  - [Brutal Force Guesser](https://github.com/Janellx/BrutalForce)
 
 
 <h2>📺 Popular YouTube Videos</h2>
