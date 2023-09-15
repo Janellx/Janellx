@@ -1,11 +1,10 @@
 <h1>💻Welcome to Janelle's Github </h1>
 My name is Janelle Tenorio and I am majoring in B.S. Information Technology at Kennesaw State University. I chose to major in Information Technology because IT is more focused on the practical application of technology to solve real-world problems. I am the type of person to be more interested in hands-on tasks, troubleshooting, and managing technology systems.
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+- <b>JS, CSS, HTML</b>
+  - [Password Generator](https://github.com/Janellx/PasswordGenerator)
 
 <h2>📺 Popular YouTube Videos</h2>
 
