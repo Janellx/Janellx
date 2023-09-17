@@ -6,20 +6,17 @@ startTime = time.time()
 
 password = input ("Enter the password: ")
 
-char = list(string.printable)
-
 
 def crack(password):
-    attemps = 0
-    while True: 
-        var = random.choices(char, k=len(password))
-        print(">>>>", var, "<<<<")
-        ps = "".join(var)
-        attemps += 1
-        if password == ps:
-            print("Your password is:", ps)
-            return attemps
-            break;
+    attempts=0
+    while True:
+        guess = ''.join(random.choices(string.ascii_letters + string.digits, k = len(password)))
+        print(">>>>", guess, "<<<<")
+        attempts +=1
+        if guess == password:
+            return attempts
+
+
 
 
 endTime = time.time()
