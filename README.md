@@ -1,5 +1,5 @@
 <h1>💻Welcome to Janelle's Github </h1>
-My name is Janelle Tenorio and I am majoring in B.S. Information Technology at Kennesaw State University. I chose to major in Information Technology because IT focuses on the practical application of technology to solve real-world problems. I am the type of person who is more interested in hands-on tasks, troubleshooting, and managing technology systems.
+My name is Janelle Tenorio and I am majoring in B.S. Information Technology at Kennesaw State University. I chose to major in Information Technology because IT focuses on the practical application of technology to solve real-world problems. I am interested in hands-on tasks, troubleshooting, and managing technology systems.
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
